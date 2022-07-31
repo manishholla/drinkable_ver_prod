@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-            <a href="https://drinkable/">drinkable</a> under construction
+            <a href="https://drinkable.in/">drinkable</a> under construction
         </h1>
 
         <p className={styles.description}>
@@ -21,12 +21,12 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://drinkable/contact-us" className={styles.card}>
+          <a href="https://drinkable.in/contact-us" className={styles.card}>
             <h2>Contact Us &rarr;</h2>
             <p>Any Queries? You may contact us anytime!</p>
           </a>
 
-          <a href="https://drinkable/partner" className={styles.card}>
+          <a href="https://drinkable.in/partner" className={styles.card}>
             <h2>Partner with Us &rarr;</h2>
             <p>Already know about us! Let's be Partners.</p>
           </a>
