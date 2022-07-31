@@ -28,7 +28,7 @@ export default function Home() {
 
                   <a href="https://drinkable.in/partner" className={styles.card}>
             <h2>Partner with Us &rarr;</h2>
-            <p>Already know about us! Let&aposs be Partners.</p>
+            <p>Already know about us! Let&apos;s be Partners.</p>
           </a>
 
           <a
