@@ -14,7 +14,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>
             <a href="https://drinkable.in/"><span className={styles.logo}>
-            <Image src="/da.svg" alt="da logo" width={140} height={36} />
+            <Image src="/da.svg" alt="da logo" width={200} height={52} />
           </span></a> under construction
         </h1>
 
