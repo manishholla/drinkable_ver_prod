@@ -13,7 +13,9 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-            <a href="https://drinkable.in/">drinkable</a> under construction
+            <a href="https://drinkable.in/"><span className={styles.logo}>
+            <Image src="/da.svg" alt="da logo" width={140} height={36} />
+          </span></a> under construction
         </h1>
 
         <p className={styles.description}>
@@ -42,7 +44,7 @@ export default function Home() {
         >
           Powered by{' '}
           <span className={styles.logo}>
-            <Image src="/da.svg" alt="Vercel Logo" width={72} height={16} />
+            <Image src="/da.svg" alt="da Logo" width={72} height={16} />
           </span>
         </a>
       </footer>
