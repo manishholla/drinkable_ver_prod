@@ -30,16 +30,7 @@ export default function Home() {
             <h2>Partner with Us &rarr;</h2>
             <p>Already know about us! Let&apos;s be Partners.</p>
           </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
-            className={styles.card}
-          >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-         
+     
         </div>
       </main>
 
